@@ -1,5 +1,6 @@
 # cnn_example
-### coursera의 Convolutional Neural Network 강좌에 나오는 대표적인 CNN 네트워크 실습
+### coursera의 Convolutional Neural Network 강의 참고 
+### 대표적인 CNN Network 사용해보기
 
 * LeNet-5 
 
