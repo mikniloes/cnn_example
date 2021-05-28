@@ -1,6 +1,8 @@
 # cnn_example
 #### - coursera의 Convolutional Neural Network 강의 참고 
-#### - 대표적인 CNN Network 사용해보기
+#### - 대표적인 CNN Network 사용해보기 (vgg,resnet:classification / yolo:detection)
+#### - kaggle의 개/고양이 데이터셋 사용
+#### - python3.6.9 / tensorflow-gpu==1.14.0
 
 ---
 * LeNet-5 
